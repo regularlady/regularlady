@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
-<h3 align="center">Developer, podcaster and skater</h3>
+<h3 align="center">Developer, podcaster and athlete</h3>
 
 - 🔭 I’m currently working at **TextUs**
 
-- 👯 I’m always looking for guests for the **5by5 Ruby on Rails Podcast**
+- 👯 I’m always looking for guests for the **The Ruby on Rails Podcast**
 
 - 👨‍💻 All of my projects are available at [https://brittanymartin.dev/](https://brittanymartin.dev/)
 

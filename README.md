@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
-<h3 align="center">Developer, podcaster and athlete</h3>
-
-- 👯 I’m always looking for guests for the **The Ruby on Rails Podcast**
+<h3 align="center">Director of Engineering at Shogun</h3>
 
 - 👨‍💻 All of my projects are available at [https://brittanymartin.dev/](https://brittanymartin.dev/)
-
-- 📝 I (ir)regularly write articles on [https://brittanymartin.dev/blog/](https://brittanymartin.dev/blog/)
 
 - 📫 How to reach me **https://brittanymartin.dev/**
 
